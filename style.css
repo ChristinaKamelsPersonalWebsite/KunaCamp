@@ -1,0 +1,24 @@
+
+div{
+    
+    text-align: center;
+    
+    color:rgb(210, 224, 219);
+    
+    width:100%;
+    border: 3px solid white;
+    font-size: x-large;
+    font-family:"kalnia Glaze";
+}
+h1{
+    background-color: rgb(134, 211, 138);
+}
+h2{
+    background-color: blueviolet;
+}
+h3{
+    background-color: rgb(212, 143, 118);
+}
+body{
+    background-color:indigo
+}
